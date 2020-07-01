@@ -1,3 +1,5 @@
+Search JIRA from the Firefox context menu.
+
 ## Installation: 
 1. Open `search.js` and edit the `idSearch` and `textSearch` variables to match your JIRA domain instance. 
 2. [Package the extension](https://extensionworkshop.com/documentation/publish/package-your-extension/)
