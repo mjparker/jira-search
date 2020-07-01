@@ -1,4 +1,4 @@
-Search JIRA from the Firefox context menu.
+Firefox Add-On to search JIRA for selected text or JIRA Issue ID, from within in Firefox context menu.
 
 ## Installation: 
 1. Open `search.js` and edit the `idSearch` and `textSearch` variables to match your JIRA domain instance. 
