@@ -1,0 +1,25 @@
+{
+
+  "manifest_version": 2,
+  "name": "JIRA Search",
+  "version": "1.0",
+
+  "description": "Search the JIRA instance for a specific JIRA ID.",
+
+  "icons": {
+    "48": "icons/ic_search_48px.svg",
+    "96": "icons/ic_search_48px.svg"
+  },
+
+  "permissions": [
+      "contextMenus",
+      "activeTab"
+  ],
+
+  "background": {
+      "scripts": [
+          "search.js"
+        ]
+  }
+
+}
